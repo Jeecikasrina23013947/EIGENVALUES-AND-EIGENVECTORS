@@ -21,7 +21,6 @@ print both the values and vectors,then end the program
 #RegisterNumber:23013947
 print("Eigen values are [ 1. -4.  3.] and Eigen Vectors are [[0.9486833  0.4472136  0.        ] \n [0.31622777 0.89442719 0.        ] \n [0.         0.         1.        ]]")
 ```
-
 ## Output:
 ![image](https://github.com/Jeecikasrina23013947/EIGENVALUES-AND-EIGENVECTORS/assets/148515300/a8883197-04fe-4721-8a70-0f37a5704b97)
 
