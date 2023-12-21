@@ -22,7 +22,7 @@ print both the values and vectors,then end the program
 print("Eigen values are [ 1. -4.  3.] and Eigen Vectors are [[0.9486833  0.4472136  0.        ] \n [0.31622777 0.89442719 0.        ] \n [0.         0.         1.        ]]")
 ```
 ## Output:
-![image](https://github.com/Jeecikasrina23013947/EIGENVALUES-AND-EIGENVECTORS/assets/148515300/a8883197-04fe-4721-8a70-0f37a5704b97)
+![image](https://github.com/Jeecikasrina23013947/EIGENVALUES-AND-EIGENVECTORS/assets/148515300/135d1b6c-6c52-4fe5-89a2-4f837fc6e25b)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
